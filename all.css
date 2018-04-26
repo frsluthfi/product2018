@@ -1,0 +1,27 @@
+#homeMain {
+  font-size: 30px;
+  font-family: courier new;
+}
+
+.judulKolomHome {
+  text-align: center;
+  font-family: courier new;
+}
+
+#jumboKiri {
+  background-color: #A9CCE3;
+  border-radius: 10px;
+}
+
+#jumboKanan {
+  background-color: #A9CCE3;
+  border-radius: 10px;
+}
+
+#kontenJumboHome {
+  text-align: center;
+}
+
+#kontenJumboHome {
+  font-family: courier new;
+}
